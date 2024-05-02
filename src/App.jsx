@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react';
 import MyNav from './Components/MyNav';
 import Footer from "./Components/MyFooter";
+import Main from "./Components/Main";
 function App() {
   return (
     <div className="App">
